@@ -1,1 +1,1 @@
-emacs python_code.py
+print ('hello world')
